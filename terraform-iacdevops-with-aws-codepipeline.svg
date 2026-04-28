@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#1e293b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#bg)"/>
+  <circle cx="650" cy="80" r="120" fill="#7c3aed" opacity="0.08"/>
+  <circle cx="150" cy="350" r="80" fill="#7c3aed" opacity="0.05"/>
+  <text x="400" y="60" text-anchor="middle" fill="#7c3aed" font-family="Inter,sans-serif" font-size="14" font-weight="600" letter-spacing="2">TERRAFORM</text>
+  <line x1="350" y1="75" x2="450" y2="75" stroke="#7c3aed" stroke-width="2" opacity="0.5"/>
+  <text x="400" y="150" text-anchor="middle" fill="white" font-family="Inter,sans-serif" font-size="32" font-weight="700">Terraform IaC DevOps with</text>
+<text x="400" y="200" text-anchor="middle" fill="white" font-family="Inter,sans-serif" font-size="32" font-weight="700">CodePipeline</text>
+  <text x="400" y="360" text-anchor="middle" fill="#64748b" font-family="Inter,sans-serif" font-size="14">cloudsecop.net</text>
+</svg>
